@@ -13,6 +13,7 @@
     "typescript": "^5.5.3"
   },
   "dependencies": {
-    "generic-pool": "^3.9.0"
+    "generic-pool": "^3.9.0",
+    "promise-socket": "^8.0.0"
   }
 }
